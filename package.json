@@ -1,0 +1,24 @@
+{
+  "name": "generator-express-api",
+  "version": "1.0.0",
+  "description": "Yeoman Generator for an Express JS API",
+  "files": [
+    "generators"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pimbrouwers/express-api.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  },
+  "author": "Pim Brouwers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pimbrouwers/express-api/issues"
+  },
+  "homepage": "https://github.com/pimbrouwers/express-api#readme"
+}
