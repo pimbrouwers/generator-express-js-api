@@ -9,7 +9,7 @@ module.exports = class extends Generator {
 
     app() {        
         //app files
-        this.fs.copyTpl(this.templatePath('app/**'), this.destinationPath('app'));
+        this.fs.copyTpl(this.templatePath('src/**'), this.destinationPath('src'));
     }
 
     install() {
