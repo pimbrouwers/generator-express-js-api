@@ -2,7 +2,7 @@ const express = require('express');
 
 module.exports = Routes;
 
-function Routes(app, azureTableClient) {
+function Routes(app) {
 	/*
 	 * routers
 	 */
