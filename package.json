@@ -7,7 +7,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pimbrouwers/express-api.git"
+    "url": "git+https://github.com/pimbrouwers/generator-express-js-api.git"
   },
   "keywords": [
     "yeoman-generator"
@@ -18,7 +18,7 @@
   "author": "Pim Brouwers <pimnation@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pimbrouwers/express-api/issues"
+    "url": "https://github.com/pimbrouwers/generator-express-js-api/issues"
   },
-  "homepage": "https://github.com/pimbrouwers/express-api#readme"
+  "homepage": "https://github.com/pimbrouwers/generator-express-js-api#readme"
 }
