@@ -5,6 +5,9 @@ const
 
 module.exports = router;
 
-router.use('/posts', posts);
+router.use('/', (req, res, next) => {
+	res.status(200).send("hello world!");
+});
 
+router.use('/posts', posts);
 
